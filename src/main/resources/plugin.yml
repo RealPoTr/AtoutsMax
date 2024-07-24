@@ -1,0 +1,5 @@
+name: AtoutsMax
+version: '${project.version}'
+main: be.realpotr.AtoutsMax
+authors: [RealPoTr]
+description: Ce plugin permet de créer un menu avec des atouts activables grâce à une permission spécifique configurable sur une boutique
